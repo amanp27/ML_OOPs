@@ -2,11 +2,11 @@
 class employee:
     # Special methods/dunder methods/ magic methods
     def __init__(self):
-        print("Started executing attributes")
+        # print("Started executing attributes")
         self.id = 123
         self.salary = 60000
         self.desgination = "AI/ML Engineer"
-        print("Attribued have been initiated")
+        # print("Attribued have been initiated")
 
     def travel(self, destination):
         print("Funtions/Methods has been called")
@@ -15,6 +15,8 @@ class employee:
 
 # Create Object or the instance of class
 sam = employee()
+sam.name = 'Aman'
+# print(sam.name)
 
 # Printing attributes
 # print(sam.desgination)
@@ -23,4 +25,4 @@ sam = employee()
 # Calling the function
 # sam.travel("Hyderabad")
 
-print(type(sam))
+# print(type(sam))

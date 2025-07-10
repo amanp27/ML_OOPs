@@ -9,7 +9,9 @@
     > Abstraction
 
 5. Project on OOPS on Chatbook:
+    > Self
     > Encapsulation
     > Getter and Setter
     > Static methods
-    
+
+    > Inheritance
