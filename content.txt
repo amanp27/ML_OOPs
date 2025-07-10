@@ -1,3 +1,15 @@
 1. Class and Object
 2. Class has data/attributes and functions/methods
 3. Why python is called OOP? -> Everything in python is object
+4. Advantages of OOPS:
+    > Easy to colab
+    > Reusability
+    > Encapsulation
+    > Polymorphism
+    > Abstraction
+
+5. Project on OOPS on Chatbook:
+    > Encapsulation
+    > Getter and Setter
+    > Static methods
+    
